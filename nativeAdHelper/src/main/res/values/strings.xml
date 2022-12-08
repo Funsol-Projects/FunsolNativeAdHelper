@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ad_icon">ad icon</string>
+    <string name="ad">AD</string>
+    <string name="loading_ad">Loading Ad</string>
+</resources>
